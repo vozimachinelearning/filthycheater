@@ -1,0 +1,7 @@
+pytesseract
+langchain
+langchain-ollama
+pillow
+mss
+pynput
+PyQt5
