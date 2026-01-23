@@ -5,3 +5,4 @@ pillow
 mss
 pynput
 PyQt5
+ollama run MedAIBase/PaddleOCR-VL:0.9b
